@@ -18,7 +18,7 @@ Coding & Animation
 -Coding Entity State Machine                            5 Hr
 -Change Entity stucture and redo                        4 Hr
 -Coding background                                      10 m
-                                                                                                           10/5/2568
+                                                                                                             10/5/2568
 Bugfix & start litlte bit of item 
 - fix the bug both Player and other Entity      4 Hr
 - start little bit of item function             1 Hr
