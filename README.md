@@ -1,7 +1,8 @@
 # Exam
 Vonder Games  2D side-scrolling
-                                                                                                            8/5/2568
-                                                                                                            
+
+                                                                                                         8/5/2568
+                                                                                                                                
 Design 2D side-scroller game & Create visual
 -design player stucture          2 Hr
 -design gameplay                 1 Hr  
@@ -11,8 +12,8 @@ Design 2D side-scroller game & Create visual
 -design daily event              30 m
 -Working on game viusal like Player model & Background & Enemy  5 Hr
 
-                                                                                                            9/5/2568
-                                                                                                            
+                                                                                                         9/5/2568
+                                                                                                             
 Coding & Animation 
 -Start Coding State Machine Player + Animation Player   7 Hr
 -Coding Entity State Machine                            5 Hr
